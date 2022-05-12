@@ -1,0 +1,5 @@
+# DialogueQualityEvaluator
+
+example.pyのpseudo_modelと入出力が同じ形式になるようにあなたのモデルでの推論処理を記述してください。
+pseudo_model(input_sentences)は、第一引数にstrのリストをとり、strのリストを返します。
+リストの要素数は入出力ともに1以上の整数である必要があります。
